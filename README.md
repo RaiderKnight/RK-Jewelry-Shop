@@ -5,7 +5,7 @@
 <h3>rk_JewelryShop  version(1.0):</h3> 
 <p>Add options to buy, sell and trade jewelry at some places around the city.</p>
 <p>8 types of jewelry to buy.</p>
-<p>Contain 1 chest box.</p>
+<p>Contain 1 jewel box.</p>
 <p>Contain 3 scenes.</p>
 <br>
 <hr>
