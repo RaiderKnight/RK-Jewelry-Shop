@@ -11,7 +11,7 @@
 <hr>
 <br>
 <h3>Module requirements</h3>
-<p>At least LifePlay 3.18</p>
+<p>At least the game LifePlay 3.18</p>
 <br>
 <h3>Module conflict</h3>
 <p>rk_MoneyMaker : You need to uninstall this mod (same content...)</p>
