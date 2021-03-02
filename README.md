@@ -2,7 +2,9 @@
 <p>Module for the game LifePlay</p>
 <p>https://github.com/vinfamy/LifePlay</p>
 <br>
-<h3>rk_JewelryShop :</h3> 
+<h3>rk_JewelryShop :</h3>
+<p>Version: 1.0.1</p>
+<br>
 <p>Add options to buy, sell and trade jewelry at some places around the city.</p>
 <p>8 types of jewelry to buy.</p>
 <p>Contain 1 jewel box.</p>
